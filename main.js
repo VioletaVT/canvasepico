@@ -39,3 +39,6 @@ agua.stroke()
  posicionx=derecha
  posiciony=arriba
 }
+function jaja(){
+    agua.clearRect(0,0,aww.width,aww.height)
+}
