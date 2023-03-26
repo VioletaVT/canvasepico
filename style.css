@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: hotpink;
+}
+
+canvas{
+    background-color: floralwhite;
+    border: 9px gold groove;
+}
